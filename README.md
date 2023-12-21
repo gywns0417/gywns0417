@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/gywns0417">
-    <img src="https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin_latte" width="500" style="max-width:100%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin_latte" width="400" style="max-width:100%;" />
   </a>
   &nbsp;
   &nbsp;
