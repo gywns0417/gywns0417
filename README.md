@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/gywns0417">
-    <img src="https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin_latte" width="500"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin_latte" width="500" style="max-width:100%;" />
   </a>
   &nbsp;
   &nbsp;
   &nbsp;
   &nbsp;
   <a href="https://github.com/gywns0417">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gywns0417&layout=compact&show_icons=true&show_owner=true&theme=nord" width="345"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gywns0417&layout=compact&show_icons=true&show_owner=true&theme=nord" width="345" style="max-width:100%;"/>
   </a>
 </p>
 
