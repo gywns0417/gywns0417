@@ -10,11 +10,6 @@
   &nbsp;
   &nbsp;
   &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
   <a href="https://github.com/gywns0417">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gywns0417&layout=compact&show_icons=true&show_owner=true&theme=nord" width="345"/>
   </a>
