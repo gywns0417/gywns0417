@@ -1,29 +1,21 @@
-### Hi there 👋
+### Hi, I'm Wang HyoJun 👋
+---
+## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**gywns0417/gywns0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin_latte)
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
+
+<h3 align="left">💡 My Most Used Languages 💡</h3>
+<p align="left">
   <a href="https://github.com/gywns0417">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=king_o417&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gywns0417&layout=compact&show_icons=$true&show_owner=$true&hide_title=$true&theme=$nord&hide=javascript" />
   </a>
 </p>
-🕊️ Blog
-https://king-dev.tistory.com/
 
+## ⚗️ BOJ Stats
 
-⚗️ BOJ Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywns0417)](https://solved.ac/gywns0417/)
+
+## 🕊️ Blog
+
+[King Dev.](https://king-dev.tistory.com/)
