@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin_latte)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gywns0417&show_icons=true&theme=catppuccin-latte)
 🕊️ Blog
 https://king-dev.tistory.com/
 
