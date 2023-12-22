@@ -15,7 +15,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE : kr
+          LOCALE : "kr"
           SHOW_PROFILE_VIEWS : "False"
           SHOW_LOC_CHART : "False"
+          SHOW_TIMEZONE : "False"
           
