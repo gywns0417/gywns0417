@@ -2,7 +2,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2058%20mins-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -41,17 +41,17 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Java                     2 hrs 52 mins       █████████████████████████   100.00 % 
+Java                     4 hrs 35 mins       █████████████████████████   100.00 % 
 Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 에디터들: 
-Intellijidea             2 hrs 52 mins       █████████████████████████   100.00 % 
+Intellijidea             4 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-Balance-Talk-Backend     2 hrs 52 mins       █████████████████████████   100.00 % 
+Balance-Talk-Backend     4 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -67,7 +67,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2024 15:09:40 UTC
+ Last Updated on 26/03/2024 15:08:45 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
