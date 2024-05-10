@@ -8,6 +8,8 @@
 
 > 📦 GitHub의 1.9 kB만큼의 저장소를 사용하고 있어요. 
  > 
+> 🏆 303 만큼의 Contributions을 2024년에 했어요
+ > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 28개의 Public Repository를 만들었어요. 
@@ -64,7 +66,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2024 15:09:45 UTC
+ Last Updated on 10/05/2024 15:08:53 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
