@@ -84,6 +84,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
   </a>
 </p>
 
+
 <br>
 
 # 💪 Skills
@@ -105,4 +106,4 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ## ⚗️ BOJ Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywns0417)](https://solved.ac/gywns0417/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywns0417)](https://solved.ac/gywns0417/)
