@@ -4,11 +4,45 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2042%20mins-blue)
 
+
+# 💪 Skills
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Junit5](https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Github Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Tools
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?&style=for-the-badge&logo=androidstudio&logoColor=white)
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=Obsidian&logoColor=white)
+
+</br>
+
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 39.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 971 만큼의 Contributions을 2024년에 했어요
+> 🏆 969 만큼의 Contributions을 2024년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -19,21 +53,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-🌆 낮　                     1048 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-🌃 저녁                     2096 commits        ████████████░░░░░░░░░░░░░   47.40 % 
-🌙 밤　                     1183 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌞 아침                     95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+🌆 낮　                     1034 commits        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌃 저녁                     2034 commits        ████████████░░░░░░░░░░░░░   47.20 % 
+🌙 밤　                     1146 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
 ```
 📅 **제가 가장 생산적인 날은 수요일이에요.** 
 
 ```text
-월요일                      549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-화요일                      811 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-수요일                      936 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-목요일                      587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-금요일                      819 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-토요일                      227 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-일요일                      493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+월요일                      528 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+화요일                      786 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+수요일                      915 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+목요일                      576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+금요일                      790 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+토요일                      225 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+일요일                      489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 ```
 
 
@@ -41,23 +75,23 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Java                     4 hrs 22 mins       █████████████████████████   99.85 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java                     4 hrs 41 mins       ████████████████████████░   96.68 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            4 hrs 22 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            4 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-Balance-Talk-Backend     3 hrs 27 mins       ████████████████████░░░░░   79.10 % 
-Cushion-BE               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-gamgyul-code-server      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Balance-Talk-Backend     3 hrs 55 mins       ████████████████████░░░░░   80.73 % 
+Cushion-BE               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+gamgyul-code-server      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+config                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -73,7 +107,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2024 15:12:35 UTC
+ Last Updated on 27/10/2024 15:10:21 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -92,21 +126,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 </p>
 
 
-<br>
-
-# 💪 Skills
-### Platforms & Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?&style=for-the-badge&logo=Obsidian&logoColor=white)
-
-
 ### :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://king-dev.tistory.com/)](https://king.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gywns0417@gmail.com)](mailto:gywns0417@gmail.com)
@@ -114,3 +133,4 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ## ⚗️ BOJ Stats
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gywns0417)](https://solved.ac/gywns0417/)
+
