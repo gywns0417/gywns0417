@@ -1,7 +1,7 @@
 ### Hi, I'm Wang HyoJun 👋
-✨ IT 동아리 [JECT](https://github.com/JECT-Study) 운영자
-🔙 Java/Spring 백엔드 개발자
-📲 Flutter 앱 개발자
+✨ IT 동아리 [JECT](https://github.com/JECT-Study) 동아리장 </br>
+🔙 Java/Spring 백엔드 개발자 </br>
+📲 Flutter 앱 개발자 </br>
 
 # 💪 Skills
 ### Platforms & Languages
