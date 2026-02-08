@@ -38,7 +38,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2039%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -77,16 +77,17 @@
 
 ```text
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+JavaScript               36 mins             ████████████████████████░   97.71 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Windsurf                 36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+JECT-BOT                 36 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -101,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2026 15:17:16 UTC
+ Last Updated on 08/02/2026 15:18:04 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
