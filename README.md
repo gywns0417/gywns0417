@@ -122,7 +122,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 ### :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://king-dev.tistory.com/)](https://king.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gywns0417@gmail.com)](mailto:gywns0417@gmail.com)
 
 ## ⚗️ BOJ Stats
