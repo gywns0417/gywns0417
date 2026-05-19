@@ -38,32 +38,71 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2026%20mins-blue?style=flat)
+
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 101.0 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 101.1 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 299 만큼의 Contributions을 2026년에 했어요
+> 🏆 307 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
-> 📜 35개의 Public Repository를 만들었어요. 
+> 📜 36개의 Public Repository를 만들었어요. 
  > 
 > 🔑 8개의 Private Repository를 만들었어요. 
  > 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+🌆 낮　                     511 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 저녁                     597 commits         ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌙 밤　                     339 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+```
+📅 **제가 가장 생산적인 날은 화요일이에요.** 
+
+```text
+월요일                      203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+화요일                      467 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
+수요일                      286 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+목요일                      301 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+금요일                      218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+토요일                      48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+일요일                      10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
+
+🔥 에디터들: 
+이번 주에 활동은 없어요.
+
+🐱‍💻 프로젝트들: 
+이번 주에 활동은 없어요.
+
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
+```
+
 **저는 주로 Java 언어를 사용해요.** 
 
 ```text
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 17:25:14 UTC
+ Last Updated on 19/05/2026 17:33:41 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
