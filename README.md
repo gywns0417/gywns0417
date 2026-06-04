@@ -38,37 +38,37 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 102.7 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 103.3 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 354 만큼의 Contributions을 2026년에 했어요
+> 🏆 363 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 37개의 Public Repository를 만들었어요. 
  > 
-> 🔑 8개의 Private Repository를 만들었어요. 
+> 🔑 10개의 Private Repository를 만들었어요. 
  > 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-🌆 낮　                     526 commits         ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌃 저녁                     621 commits         ██████████░░░░░░░░░░░░░░░   39.16 % 
-🌙 밤　                     353 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌆 낮　                     527 commits         ████████░░░░░░░░░░░░░░░░░   33.06 % 
+🌃 저녁                     626 commits         ██████████░░░░░░░░░░░░░░░   39.27 % 
+🌙 밤　                     355 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-화요일                      498 commits         ████████░░░░░░░░░░░░░░░░░   31.40 % 
-수요일                      302 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-목요일                      306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-금요일                      219 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-토요일                      48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+월요일                      203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+화요일                      498 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
+수요일                      302 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+목요일                      312 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+토요일                      48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 일요일                      10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
@@ -77,32 +77,34 @@
 
 ```text
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Markdown                 5 mins              ███████████████░░░░░░░░░░   59.55 % 
+Java                     4 mins              ██████████░░░░░░░░░░░░░░░   40.45 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ IDEA            10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+JECT-BOT                 5 mins              ███████████████░░░░░░░░░░   59.55 % 
+JECT-Official-WebSite-Ser4 mins              ██████████░░░░░░░░░░░░░░░   40.45 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
 
 ```text
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 03/06/2026 18:40:54 UTC
+ Last Updated on 04/06/2026 17:39:10 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
