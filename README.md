@@ -38,15 +38,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2016%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 103.4 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 374 만큼의 Contributions을 2026년에 했어요
+> 🏆 401 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -57,21 +57,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-🌆 낮　                     529 commits         ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 저녁                     629 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
-🌙 밤　                     361 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+🌆 낮　                     576 commits         ████████░░░░░░░░░░░░░░░░░   33.82 % 
+🌃 저녁                     640 commits         █████████░░░░░░░░░░░░░░░░   37.58 % 
+🌙 밤　                     401 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-화요일                      498 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
-수요일                      303 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-목요일                      315 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-토요일                      48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+수요일                      309 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+목요일                      407 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+토요일                      48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
@@ -79,38 +79,54 @@
 
 ```text
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Markdown                 4 mins              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Codex CLI                4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+king                     4 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 213,696 Input Tokens, 5,237 Output Tokens
+
+💵 $1.23 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 495 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
 
 ```text
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 29/07/2026 16:16:35 UTC
+ Last Updated on 30/07/2026 16:20:39 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
