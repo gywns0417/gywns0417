@@ -38,9 +38,9 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%209%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -79,38 +79,46 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 4 mins              █████████████████████████   100.00 % 
+Markdown                 2 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.85 % 
+Java                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Groovy                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 에디터들: 
-Codex CLI                4 mins              █████████████████████████   100.00 % 
+Codex CLI                3 hrs 54 mins       ███████████████████░░░░░░   74.11 % 
+IntelliJ IDEA            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Claude Code              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 🐱‍💻 프로젝트들: 
-king                     4 mins              █████████████████████████   100.00 % 
+JECT-Official-Event-QR-Ch3 hrs 27 mins       ████████████████░░░░░░░░░   65.57 % 
+king                     1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
 
 💻 운영 체제들: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 57 mins (94.03%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 3,797 lines written by AI, 15 lines written by hand (99.61% AI-written)
 
-🔤 213,696 Input Tokens, 5,237 Output Tokens
+🔤 70,537,100 Input Tokens, 380,765 Output Tokens
 
-💵 $1.23 Estimated AI Cost This Week
+💵 $363.50 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 12 AI Sessions, 43 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,832 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 495 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 99.61% of written lines came from AI
+📄 Detailed Prompter — average 702 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -126,7 +134,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 16:20:39 UTC
+ Last Updated on 31/07/2026 16:30:42 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
