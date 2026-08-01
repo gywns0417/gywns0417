@@ -38,9 +38,9 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%207%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -57,21 +57,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-🌆 낮　                     576 commits         ████████░░░░░░░░░░░░░░░░░   33.82 % 
-🌃 저녁                     640 commits         █████████░░░░░░░░░░░░░░░░   37.58 % 
-🌙 밤　                     401 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+🌆 낮　                     586 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 저녁                     644 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 밤　                     410 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-수요일                      309 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-목요일                      407 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-토요일                      48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+수요일                      310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+목요일                      427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+토요일                      50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
@@ -79,46 +79,46 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.85 % 
-Java                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Groovy                   36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.46 % 
+Java                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Java Properties          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Groovy                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 에디터들: 
-Codex CLI                3 hrs 54 mins       ███████████████████░░░░░░   74.11 % 
-IntelliJ IDEA            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Claude Code              33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Codex CLI                4 hrs 45 mins       ███████████████████░░░░░░   76.34 % 
+IntelliJ IDEA            55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 🐱‍💻 프로젝트들: 
-JECT-Official-Event-QR-Ch3 hrs 27 mins       ████████████████░░░░░░░░░   65.57 % 
-king                     1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
+JECT-Official-Event-QR-Ch4 hrs 22 mins       ██████████████████░░░░░░░   70.22 % 
+king                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 57 mins (94.03%)
+⏱ AI Coding Time: 5 hrs 55 mins (94.94%)
 
-✍️ 3,797 lines written by AI, 15 lines written by hand (99.61% AI-written)
+✍️ 4,323 lines written by AI, 16 lines written by hand (99.63% AI-written)
 
-🔤 70,537,100 Input Tokens, 380,765 Output Tokens
+🔤 76,807,059 Input Tokens, 431,037 Output Tokens
 
-💵 $363.50 Estimated AI Cost This Week
+💵 $396.36 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 43 AI Prompts
+🧠 15 AI Sessions, 55 AI Prompts
 
-GPT                      3,832 lines         █████████████████████████   100.00 % 
+GPT                      4,419 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.61% of written lines came from AI
-📄 Detailed Prompter — average 702 characters per prompt
+🤖 AI-Driven — 99.63% of written lines came from AI
+📄 Detailed Prompter — average 568 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -134,7 +134,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 16:30:42 UTC
+ Last Updated on 01/08/2026 15:53:31 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
