@@ -79,20 +79,20 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.46 % 
-Java                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Markdown                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
+Java                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
 Java Properties          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Groovy                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 45 mins       ███████████████████░░░░░░   76.34 % 
-IntelliJ IDEA            55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Codex CLI                4 hrs 45 mins       ███████████████████░░░░░░   76.32 % 
+IntelliJ IDEA            55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 🐱‍💻 프로젝트들: 
-JECT-Official-Event-QR-Ch4 hrs 22 mins       ██████████████████░░░░░░░   70.22 % 
-king                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+JECT-Official-Event-QR-Ch4 hrs 23 mins       ██████████████████░░░░░░░   70.23 % 
+king                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
 
 💻 운영 체제들: 
 Mac                      6 hrs 14 mins       █████████████████████████   100.00 % 
@@ -101,7 +101,7 @@ Mac                      6 hrs 14 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 55 mins (94.94%)
+⏱ AI Coding Time: 5 hrs 55 mins (94.93%)
 
 ✍️ 4,323 lines written by AI, 16 lines written by hand (99.63% AI-written)
 
@@ -134,7 +134,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 15:53:31 UTC
+ Last Updated on 02/08/2026 15:53:57 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
