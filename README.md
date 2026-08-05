@@ -79,44 +79,44 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Markdown                 2 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
-Java                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Java Properties          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Groovy                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Markdown                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
+Java                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Java Properties          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Groovy                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 48 mins       ███████████████████░░░░░░   76.19 % 
-IntelliJ IDEA            56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Codex CLI                4 hrs 45 mins       ███████████████████░░░░░░   76.03 % 
+IntelliJ IDEA            56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🐱‍💻 프로젝트들: 
-JECT-Official-Event-QR-Ch4 hrs 24 mins       █████████████████░░░░░░░░   69.86 % 
-king                     1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   30.14 % 
+JECT-Official-Event-QR-Ch4 hrs 24 mins       ██████████████████░░░░░░░   70.34 % 
+king                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 58 mins (94.72%)
+⏱ AI Coding Time: 5 hrs 55 mins (94.68%)
 
 ✍️ 4,323 lines written by AI, 16 lines written by hand (99.63% AI-written)
 
-🔤 78,128,331 Input Tokens, 438,794 Output Tokens
+🔤 77,055,601 Input Tokens, 432,059 Output Tokens
 
-💵 $403.20 Estimated AI Cost This Week
+💵 $397.63 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 56 AI Prompts
+🧠 15 AI Sessions, 55 AI Prompts
 
 GPT                      4,419 lines         █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.63% of written lines came from AI
-📄 Detailed Prompter — average 559 characters per prompt
+📄 Detailed Prompter — average 568 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
@@ -134,7 +134,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 16:46:57 UTC
+ Last Updated on 05/08/2026 16:27:00 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
