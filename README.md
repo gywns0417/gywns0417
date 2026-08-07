@@ -38,10 +38,6 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%207%20mins-blue?style=flat)
-
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 103.4 kB만큼의 저장소를 사용하고 있어요. 
@@ -54,73 +50,6 @@
  > 
 > 🔑 9개의 Private Repository를 만들었어요. 
  > 
-**저는 저녁형 인간이에요. 🦉** 
-
-```text
-🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-🌆 낮　                     586 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌃 저녁                     644 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
-🌙 밤　                     410 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-```
-📅 **제가 가장 생산적인 날은 화요일이에요.** 
-
-```text
-월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-수요일                      310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-목요일                      427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-토요일                      50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-💬 프로그래밍 언어들: 
-Markdown                 2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
-Java                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Java Properties          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Groovy                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-
-🔥 에디터들: 
-Codex CLI                4 hrs 45 mins       ███████████████████░░░░░░   76.03 % 
-IntelliJ IDEA            56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Claude Code              33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-
-🐱‍💻 프로젝트들: 
-JECT-Official-Event-QR-Ch4 hrs 24 mins       ██████████████████░░░░░░░   70.34 % 
-king                     1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-
-💻 운영 체제들: 
-Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 55 mins (94.68%)
-
-✍️ 4,323 lines written by AI, 16 lines written by hand (99.63% AI-written)
-
-🔤 77,055,601 Input Tokens, 432,059 Output Tokens
-
-💵 $397.63 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 55 AI Prompts
-
-GPT                      4,419 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📄 Detailed Prompter — average 568 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
-```
-
 **저는 주로 Java 언어를 사용해요.** 
 
 ```text
@@ -134,7 +63,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 16:27:00 UTC
+ Last Updated on 07/08/2026 15:44:13 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
