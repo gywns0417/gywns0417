@@ -38,6 +38,10 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%207%20mins-blue?style=flat)
+
 **🐱 저의 GitHub 정보에요.** 
 
 > 📦 GitHub의 103.4 kB만큼의 저장소를 사용하고 있어요. 
@@ -50,6 +54,49 @@
  > 
 > 🔑 9개의 Private Repository를 만들었어요. 
  > 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+🌆 낮　                     586 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌃 저녁                     644 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 밤　                     410 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+```
+📅 **제가 가장 생산적인 날은 화요일이에요.** 
+
+```text
+월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+수요일                      310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+목요일                      427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+토요일                      50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+💬 프로그래밍 언어들: 
+Java                     0 secs              █████████████████████████   100.00 % 
+
+🔥 에디터들: 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 프로젝트들: 
+JECT-Official-Event-QR-Ch0 secs              █████████████████████████   100.00 % 
+
+💻 운영 체제들: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **저는 주로 Java 언어를 사용해요.** 
 
 ```text
@@ -63,7 +110,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 15:44:13 UTC
+ Last Updated on 08/08/2026 15:20:16 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
