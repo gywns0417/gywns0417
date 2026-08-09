@@ -79,16 +79,16 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Java                     0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🐱‍💻 프로젝트들: 
-JECT-Official-Event-QR-Ch0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,7 +110,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 15:20:16 UTC
+ Last Updated on 09/08/2026 15:21:48 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
