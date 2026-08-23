@@ -38,9 +38,9 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -79,22 +79,45 @@
 
 ```text
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Other                    19 mins             █████████████████░░░░░░░░   69.77 % 
+Java                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+C#                       3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Codex CLI                22 mins             ████████████████████░░░░░   80.89 % 
+IntelliJ IDEA            5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+king                     18 mins             █████████████████░░░░░░░░   68.82 % 
+JECT-Official-WebSite-Ser5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+support                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 27 mins (100.0%)
+
+✍️ 891 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 211,311 Input Tokens, 39,111 Output Tokens
+
+💵 $5.68 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+GPT                      894 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -110,7 +133,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 15:11:38 UTC
+ Last Updated on 23/08/2026 15:12:49 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
