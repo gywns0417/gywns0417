@@ -46,7 +46,7 @@
 
 > 📦 GitHub의 103.4 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 401 만큼의 Contributions을 2026년에 했어요
+> 🏆 414 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -57,21 +57,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-🌆 낮　                     586 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌃 저녁                     644 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
-🌙 밤　                     410 commits         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌞 아침                     86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+🌆 낮　                     586 commits         ████████░░░░░░░░░░░░░░░░░   33.60 % 
+🌃 저녁                     660 commits         █████████░░░░░░░░░░░░░░░░   37.84 % 
+🌙 밤　                     412 commits         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   28.85 % 
-수요일                      310 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-목요일                      427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-토요일                      50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+월요일                      206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+화요일                      498 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
+수요일                      326 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+목요일                      427 commits         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+금요일                      221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+토요일                      52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+일요일                      14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 
@@ -79,22 +79,45 @@
 
 ```text
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Java                     42 mins             ████████████░░░░░░░░░░░░░   47.49 % 
+Other                    30 mins             █████████░░░░░░░░░░░░░░░░   34.31 % 
+YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ IDEA            47 mins             █████████████░░░░░░░░░░░░   52.79 % 
+Codex CLI                42 mins             ████████████░░░░░░░░░░░░░   47.21 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+JECT-Official-Event-QR-Ch56 mins             ████████████████░░░░░░░░░   62.69 % 
+king                     30 mins             █████████░░░░░░░░░░░░░░░░   34.31 % 
+JECT-Official-WebSite-Ser2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 7 mins (75.93%)
+
+✍️ 27 lines written by AI, 113 lines written by hand (19.29% AI-written)
+
+🔤 507,133 Input Tokens, 81,232 Output Tokens
+
+💵 $11.22 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 23 AI Prompts
+
+GPT                      27 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 19.29% of written lines came from AI
+📝 Concise Prompter — average 405 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 80.85% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -110,7 +133,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 18:04:22 UTC
+ Last Updated on 02/09/2026 18:14:41 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
