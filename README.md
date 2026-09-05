@@ -38,9 +38,9 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-626%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -79,45 +79,46 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Java                     57 mins             █████████████░░░░░░░░░░░░   51.01 % 
-Other                    37 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
-YAML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Java Properties          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Java                     1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   38.75 % 
+Other                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Swift                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 3 mins         ██████████████░░░░░░░░░░░   56.32 % 
-Codex CLI                48 mins             ███████████░░░░░░░░░░░░░░   43.68 % 
+Codex CLI                2 hrs 37 mins       ████████████████░░░░░░░░░   63.01 % 
+IntelliJ IDEA            1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   36.99 % 
 
 🐱‍💻 프로젝트들: 
-JECT-Official-Event-QR-Ch1 hr 7 mins         ███████████████░░░░░░░░░░   60.06 % 
-king                     37 mins             ████████░░░░░░░░░░░░░░░░░   33.39 % 
-JECT-Official-WebSite-Ser7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+JECT-Official-Event-QR-Ch2 hrs 8 mins        █████████████░░░░░░░░░░░░   51.41 % 
+king                     1 hr 48 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
+JECT-Official-WebSite-Ser8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+support                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (77.15%)
+⏱ AI Coding Time: 3 hrs 22 mins (81.02%)
 
-✍️ 27 lines written by AI, 166 lines written by hand (13.99% AI-written)
+✍️ 2,321 lines written by AI, 187 lines written by hand (92.54% AI-written)
 
-🔤 549,812 Input Tokens, 95,439 Output Tokens
+🔤 1,215,707 Input Tokens, 247,144 Output Tokens
 
-💵 $12.27 Estimated AI Cost This Week
+💵 $29.32 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 27 AI Prompts
+🧠 8 AI Sessions, 51 AI Prompts
 
-GPT                      27 lines            █████████████████████████   100.00 % 
+GPT                      2,325 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.99% of written lines came from AI
-📝 Concise Prompter — average 354 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 86.7% of changed lines were hand-edited
+🤖 AI-Driven — 92.54% of written lines came from AI
+📝 Concise Prompter — average 332 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 8.03% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -133,7 +134,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 17:54:57 UTC
+ Last Updated on 05/09/2026 17:01:43 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
