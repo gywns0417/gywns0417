@@ -79,48 +79,49 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Java                     2 hrs               ████████░░░░░░░░░░░░░░░░░   33.28 % 
-Swift                    1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Git                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Markdown                 1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Swift                    1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Java                     1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+JavaScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Git                      48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 33 mins       ███████████████████░░░░░░   75.41 % 
-IntelliJ IDEA            1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Codex CLI                6 hrs 30 mins       ████████████████████░░░░░   78.49 % 
+IntelliJ IDEA            1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Codex Vscode             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🐱‍💻 프로젝트들: 
-productivity-app         2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
-JECT-Official-Event-QR-Ch2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.86 % 
-king                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-JECT-BOT                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-official-qr-checkin-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+productivity-app         2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+king                     1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+JECT-BOT                 1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+JECT-Official-Event-QR-Ch1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+official-qr-checkin-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 57 mins (98.71%)
+⏱ AI Coding Time: 8 hrs 12 mins (99.06%)
 
-✍️ 6,488 lines written by AI, 34 lines written by hand (99.48% AI-written)
+✍️ 6,701 lines written by AI, 34 lines written by hand (99.5% AI-written)
 
-🔤 2,484,812 Input Tokens, 321,799 Output Tokens
+🔤 3,014,983 Input Tokens, 360,407 Output Tokens
 
-💵 $142.05 Estimated AI Cost This Week
+💵 $161.19 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 52 AI Prompts
+🧠 30 AI Sessions, 88 AI Prompts
 
-GPT                      6,429 lines         █████████████████████████   98.77 % 
-Codex-Cli                80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+GPT                      6,643 lines         █████████████████████████   98.81 % 
+Codex-Cli                80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🤖 AI-Driven — 99.5% of written lines came from AI
+📝 Concise Prompter — average 88 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -136,7 +137,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 17:33:32 UTC
+ Last Updated on 13/09/2026 17:48:25 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
