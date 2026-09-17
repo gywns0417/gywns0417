@@ -79,47 +79,46 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Swift                    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-Java                     1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-JavaScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Git                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Swift                    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.09 % 
+Java                     1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Git                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 에디터들: 
-Codex CLI                4 hrs 19 mins       ██████████████████░░░░░░░   70.83 % 
-IntelliJ IDEA            1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Codex Vscode             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Codex CLI                4 hrs 8 mins        ██████████████████░░░░░░░   73.86 % 
+IntelliJ IDEA            1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
 
 🐱‍💻 프로젝트들: 
-productivity-app         2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-JECT-Official-Event-QR-Ch1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.37 % 
-JECT-BOT                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-king                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+productivity-app         2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
+JECT-Official-Event-QR-Ch1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.21 % 
+JECT-BOT                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+king                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 official-qr-checkin-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 운영 체제들: 
-Mac                      6 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 2 mins (98.72%)
+⏱ AI Coding Time: 5 hrs 31 mins (98.61%)
 
-✍️ 6,482 lines written by AI, 34 lines written by hand (99.48% AI-written)
+✍️ 6,461 lines written by AI, 34 lines written by hand (99.48% AI-written)
 
-🔤 2,905,742 Input Tokens, 325,054 Output Tokens
+🔤 2,387,094 Input Tokens, 301,108 Output Tokens
 
-💵 $143.38 Estimated AI Cost This Week
+💵 $136.43 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 59 AI Prompts
+🧠 27 AI Sessions, 48 AI Prompts
 
-GPT                      6,424 lines         █████████████████████████   98.77 % 
+GPT                      6,401 lines         █████████████████████████   98.77 % 
 Codex-Cli                80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.48% of written lines came from AI
-📝 Concise Prompter — average 71 characters per prompt
+📝 Concise Prompter — average 67 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
@@ -137,7 +136,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 18:34:04 UTC
+ Last Updated on 17/09/2026 18:42:25 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
