@@ -79,48 +79,22 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Swift                    1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Java                     1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Git                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Codex CLI                4 hrs 8 mins        ██████████████████░░░░░░░   73.86 % 
-IntelliJ IDEA            1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+이번 주에 활동은 없어요.
 
 🐱‍💻 프로젝트들: 
-productivity-app         2 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
-JECT-Official-Event-QR-Ch1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.21 % 
-JECT-BOT                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-king                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-official-qr-checkin-serve0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 31 mins (98.61%)
-
-✍️ 6,461 lines written by AI, 34 lines written by hand (99.48% AI-written)
-
-🔤 2,387,094 Input Tokens, 301,108 Output Tokens
-
-💵 $136.43 Estimated AI Cost This Week
-
-🧠 27 AI Sessions, 48 AI Prompts
-
-GPT                      6,401 lines         █████████████████████████   98.77 % 
-Codex-Cli                80 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📝 Concise Prompter — average 67 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **저는 주로 Java 언어를 사용해요.** 
@@ -136,7 +110,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 18:42:25 UTC
+ Last Updated on 18/09/2026 17:58:45 UTC
 <!--END_SECTION:waka-->
 
 ## Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgywns0417%2Fhit-counter&count_bg=%239AEB68&title_bg=%23B1D1F7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
